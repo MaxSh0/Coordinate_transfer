@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Coordinate_transfer" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
